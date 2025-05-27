@@ -1,0 +1,15 @@
+# Server
+PORT=3000
+NODE_ENV=development
+
+# Database (example: MySQL)
+DB_HOST=localhost
+DB_PORT=3306
+DB_NAME=myapp_dev
+DB_USER=root
+DB_PASSWORD=your_local_password
+
+# JWT Secret
+JWT_SECRET=your_dev_jwt_secret
+
+# Other environment-specific configs...
